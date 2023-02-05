@@ -3,6 +3,7 @@
 # Inventory.py
 # ********************
 
+#Object oriented class which initialises county, code, product, cost, quantity objects
 class Shoe:
     def __init__(self, country, code, product, cost, quantity):
         # Shoe.__init__(country, code, product, cost, quantity)
@@ -12,7 +13,7 @@ class Shoe:
         self.cost = cost
         self.quantity = quantity
     
-    #a stings representation fo the above class. 
+    #A string representation fo the above class. 
     def __str__(self):
         return f"{type(self).__name__}({self.country!r},{self.code!r}, {self.product!r}, {self.cost!r}, {self.quantity!r})"
 
