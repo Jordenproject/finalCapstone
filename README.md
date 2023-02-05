@@ -6,7 +6,7 @@ The programme allows the user to manipulate an inventory of shoe values appended
 
 ## What is the project for?
 This programme allows the user to add values to a list of shoes and their respected values. The user can find out which is the highest and lowest quanity of shoe in thier inventory. The user can update the quantity value of each shoe and they can search for a particular shoe by product code. The user can also find the values of shoes in the iventory in relation to the quantity of shoe. The programme allows the user to display the full list of itmes in the inventory. 
-The values that are listed for each shoe in the iventory are:
+The values that are listed for each shoe in the inventory are:
 
 • Country
 
@@ -18,7 +18,7 @@ The values that are listed for each shoe in the iventory are:
 
 • Product Quantity 
 
-## How can your organisatin benefit from the programme?
+## How can your organisation benefit from the programme?
 This programme will allow businesses to manage and update their product inventorys and will allow businesses to know which stock levels to update and which are thier worst and best sellings shoes. 
 
 ## Installation guidelines
